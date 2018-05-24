@@ -1,0 +1,2 @@
+vhdtdtfi -lib work Mux21_32b.vhd -prj R_Type -o Mux21_32.spl -module Mux21_32 -template C:/Xilinx/14.6/ISE_DS/ISE//data/splfile.tft -deleteonerror 
+spl2sym -intstyle ise -family spartan3e Mux21_32.spl C:/Users/Pro/Documents/Xilinx/R_Type/Mux21_32.sym 

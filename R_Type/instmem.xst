@@ -1,0 +1,5 @@
+set -tmpdir "C:/Users/Pro/Documents/Xilinx/R_Type/xst/projnav.tmp"
+set -xsthdpdir "C:/Users/Pro/Documents/Xilinx/R_Type/xst"
+elaborate
+-ifn instmem.prj
+-ifmt mixed

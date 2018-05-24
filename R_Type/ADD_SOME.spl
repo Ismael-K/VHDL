@@ -1,0 +1,6 @@
+[Inputs]
+Jal
+=A[31:0]=
+[Outputs]
+=B[31:0]=
+[BiDir]

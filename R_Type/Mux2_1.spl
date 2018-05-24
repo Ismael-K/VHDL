@@ -1,0 +1,7 @@
+[Inputs]
+control
+=din1[4:0]=
+=din2[4:0]=
+[Outputs]
+=dout[4:0]=
+[BiDir]

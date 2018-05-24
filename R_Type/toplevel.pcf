@@ -1,0 +1,35 @@
+//! **************************************************************************
+// Written by: Map P.68d on Fri Apr 11 23:01:11 2014
+//! **************************************************************************
+
+SCHEMATIC START;
+COMP "MSB" LOCATE = SITE "C11" LEVEL 1;
+COMP "zero" LOCATE = SITE "P4" LEVEL 1;
+COMP "dout<0>" LOCATE = SITE "M12" LEVEL 1;
+COMP "dout<1>" LOCATE = SITE "L13" LEVEL 1;
+COMP "dout<2>" LOCATE = SITE "P12" LEVEL 1;
+COMP "dout<3>" LOCATE = SITE "N11" LEVEL 1;
+COMP "dout<4>" LOCATE = SITE "N14" LEVEL 1;
+COMP "dout<5>" LOCATE = SITE "H12" LEVEL 1;
+COMP "dout<6>" LOCATE = SITE "L14" LEVEL 1;
+COMP "dout<7>" LOCATE = SITE "N13" LEVEL 1;
+COMP "clock" LOCATE = SITE "A7" LEVEL 1;
+PIN clock_pin<0> = BEL "clock" PINNAME PAD;
+PIN "clock_pin<0>" CLOCK_DEDICATED_ROUTE = FALSE;
+COMP "reset" LOCATE = SITE "M4" LEVEL 1;
+COMP "carryout" LOCATE = SITE "N4" LEVEL 1;
+COMP "clock1" LOCATE = SITE "B8" LEVEL 1;
+COMP "enout<0>" LOCATE = SITE "F12" LEVEL 1;
+COMP "enout<1>" LOCATE = SITE "J12" LEVEL 1;
+COMP "enout<2>" LOCATE = SITE "M13" LEVEL 1;
+COMP "enout<3>" LOCATE = SITE "K14" LEVEL 1;
+COMP "pcout<0>" LOCATE = SITE "M5" LEVEL 1;
+COMP "pcout<1>" LOCATE = SITE "M11" LEVEL 1;
+COMP "pcout<2>" LOCATE = SITE "P7" LEVEL 1;
+COMP "pcout<3>" LOCATE = SITE "P6" LEVEL 1;
+COMP "pcout<4>" LOCATE = SITE "N5" LEVEL 1;
+COMP "overflow" LOCATE = SITE "G1" LEVEL 1;
+NET "clock_BUFGP/IBUFG" BEL "clock_BUFGP/BUFG.GCLKMUX" USELOCALCONNECT;
+NET "clock1_BUFGP/IBUFG" BEL "clock1_BUFGP/BUFG.GCLKMUX" USELOCALCONNECT;
+SCHEMATIC END;
+

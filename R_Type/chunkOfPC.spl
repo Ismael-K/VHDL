@@ -1,0 +1,5 @@
+[Inputs]
+=Pin[4:0]=
+[Outputs]
+=Pout[4:0]=
+[BiDir]

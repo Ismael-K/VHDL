@@ -1,0 +1,32 @@
+# Pin assignment for DispCtl
+# Connected to Basys2 onBoard 7seg display
+NET "dout<6>" LOC = "L14" ; # Bank = 1, Signal name = CA
+NET "dout<5>" LOC = "H12" ; # Bank = 1, Signal name = CB
+NET "dout<4>" LOC = "N14" ; # Bank = 1, Signal name = CC
+NET "dout<3>" LOC = "N11" ; # Bank = 1, Signal name = CD
+NET "dout<2>" LOC = "P12" ; # Bank = 1, Signal name = CE
+NET "dout<1>" LOC = "L13" ; # Bank = 1, Signal name = CF
+NET "dout<0>" LOC = "M12" ; # Bank = 1, Signal name = CG
+NET "dout<7>" LOC = "N13" ; # Bank = 1, Signal name = DP
+#####Enable for 7-segments###############################
+NET "enout<3>" LOC = "K14"; # Bank = 1, Signal name = AN3
+NET "enout<2>" LOC = "M13"; # Bank = 1, Signal name = AN2
+NET "enout<1>" LOC = "J12"; # Bank = 1, Signal name = AN1
+NET "enout<0>" LOC = "F12"; # Bank = 1, Signal name = AN0
+### Pin assignment for LEDs###########################
+NET "overflow" LOC = "G1" ; # Bank = 2, Signal name = LD7
+NET "zero"     LOC = "P4" ; # Bank = 2, Signal name = LD6
+NET "carryout" LOC = "N4" ; # Bank = 2, Signal name = LD5
+NET "pcout<4>" LOC = "N5" ; # Bank = 2, Signal name = LD4
+NET "pcout<3>" LOC = "P6" ; # Bank = 2, Signal name = LD3
+NET "pcout<2>" LOC = "P7" ; # Bank = 2, Signal name = LD2
+NET "pcout<1>" LOC = "M11"; # Bank = 2, Signal name = LD1
+NET "pcout<0>" LOC = "M5" ; # Bank = 2, Signal name = LD0
+# Pin assignment for SWs
+NET "clock"    LOC = "A7" ; # Bank = 1, Signal name = BTN3
+NET "reset"    LOC = "M4" ; # Bank = 1, Signal name = BTN2
+NET "clock" CLOCK_DEDICATED_ROUTE = FALSE;
+NET "msb"      LOC = "C11"; # Bank = 1, Signal name = BTN1
+######On board Clock for 7-segment display##############
+NET "clock1"   LOC = "b8" ; # Bank = 1, Signal name = Mclock
+

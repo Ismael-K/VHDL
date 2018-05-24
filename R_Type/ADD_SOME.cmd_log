@@ -1,0 +1,4 @@
+vhdtdtfi -lib work ADD_SOME.vhd -prj R_Type -o ADD_SOME.spl -module ADD_SOME -template C:/Xilinx/14.6/ISE_DS/ISE//data/splfile.tft -deleteonerror 
+spl2sym -intstyle ise -family spartan3e ADD_SOME.spl C:/Users/Pro/Documents/Xilinx/R_Type/ADD_SOME.sym 
+vhdtdtfi -lib work ADD_SOME.vhd -prj R_Type -o ADD_SOME.spl -module ADD_SOME -template C:/Xilinx/14.6/ISE_DS/ISE//data/splfile.tft -deleteonerror 
+spl2sym -intstyle ise -family spartan3e ADD_SOME.spl C:/Users/Pro/Documents/Xilinx/R_Type/ADD_SOME.sym 

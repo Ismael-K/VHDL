@@ -1,0 +1,2 @@
+vhdtdtfi -lib work Mux2_1.vhd -prj R_Type -o Mux2_1.spl -module Mux2_1 -template C:/Xilinx/14.6/ISE_DS/ISE//data/splfile.tft -deleteonerror 
+spl2sym -intstyle ise -family spartan3e Mux2_1.spl C:/Users/Pro/Documents/Xilinx/R_Type/Mux2_1.sym 

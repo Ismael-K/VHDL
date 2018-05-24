@@ -1,0 +1,7 @@
+[Inputs]
+=ALU_op[1:0]=
+=Funct_field[5:0]=
+[Outputs]
+Jump_Reg
+=Operation[3:0]=
+[BiDir]

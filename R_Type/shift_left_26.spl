@@ -1,0 +1,6 @@
+[Inputs]
+=din[25:0]=
+=PC_Four[3:0]=
+[Outputs]
+=dout[31:0]=
+[BiDir]

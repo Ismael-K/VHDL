@@ -1,0 +1,10 @@
+[Inputs]
+=A[31:0]=
+=B[31:0]=
+=ALUCntl[3:0]=
+[Outputs]
+Zero
+Carryout
+Overflow
+=ALUOut[31:0]=
+[BiDir]

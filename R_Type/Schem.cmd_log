@@ -1,0 +1,15 @@
+sch2vhdl -intstyle ise -family spartan6 -tionly -w C:/Users/Pro/Documents/Xilinx/R_Type/Schem.sch Schem.vhi 
+sch2vhdl -intstyle ise -family spartan6 -tionly -w C:/Users/Pro/Documents/Xilinx/R_Type/Schem.sch Schem.vhi 
+sch2vhdl -intstyle ise -family spartan6 -tionly -w C:/Users/Pro/Documents/Xilinx/R_Type/Schem.sch Schem.vhi 
+sch2vhdl -intstyle ise -family spartan6 -tionly -w C:/Users/Pro/Documents/Xilinx/R_Type/Schem.sch Schem.vhi 
+sch2vhdl -intstyle ise -family spartan6 -tionly -w C:/Users/Pro/Documents/Xilinx/R_Type/Schem.sch Schem.vhi 
+sch2vhdl -intstyle ise -family spartan6 -tionly -w C:/Users/Pro/Documents/Xilinx/R_Type/Schem.sch Schem.vhi 
+sch2vhdl -intstyle ise -family spartan6 -tionly -w C:/Users/Pro/Documents/Xilinx/R_Type/Schem.sch Schem.vhi 
+sch2vhdl -intstyle ise -family spartan3e -tionly -w C:/Users/Pro/Documents/Xilinx/R_Type/Schem.sch Schem.vhi 
+sch2hdl -intstyle ise -family spartan3e -flat -suppress -vhdl Schem.vhf -w C:/Users/Pro/Documents/Xilinx/R_Type/Schem.sch 
+sch2hdl -intstyle ise -family spartan3e -flat -suppress -vhdl Schem_drc.vhf -w C:/Users/Pro/Documents/Xilinx/R_Type/Schem.sch 
+sch2vhdl -intstyle ise -family spartan3e -tionly -w C:/Users/Pro/Documents/Xilinx/R_Type/Schem.sch Schem.vhi 
+sch2hdl -intstyle ise -family spartan3e -flat -suppress -vhdl Schem_drc.vhf -w C:/Users/Pro/Documents/Xilinx/R_Type/Schem.sch 
+sch2hdl -intstyle ise -family spartan3e -flat -suppress -vhdl Schem_drc.vhf -w C:/Users/Pro/Documents/Xilinx/R_Type/Schem.sch 
+sch2hdl -intstyle ise -family spartan3e -flat -suppress -vhdl Schem_drc.vhf -w C:/Users/Pro/Documents/Xilinx/R_Type/Schem.sch 
+sch2hdl -intstyle ise -family spartan3e -flat -suppress -vhdl Schem_drc.vhf -w C:/Users/Pro/Documents/Xilinx/R_Type/Schem.sch 

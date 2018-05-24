@@ -1,0 +1,5 @@
+[Inputs]
+=read_inst[31:0]=
+[Outputs]
+=inst_out[31:0]=
+[BiDir]

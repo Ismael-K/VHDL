@@ -1,0 +1,1 @@
+-intstyle "ise" -incremental -o "C:/Users/Pro/Documents/Xilinx/R_Type/Schem_Schem_sch_tb_isim_beh.exe" -prj "C:/Users/Pro/Documents/Xilinx/R_Type/Schem_Schem_sch_tb_beh.prj" "work.Schem_Schem_sch_tb" 

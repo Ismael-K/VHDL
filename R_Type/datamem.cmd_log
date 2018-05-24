@@ -1,0 +1,4 @@
+vhdtdtfi -lib work datamem.vhd -prj R_Type -o datamem.spl -module datamem -template C:/Xilinx/14.6/ISE_DS/ISE//data/splfile.tft -deleteonerror 
+spl2sym -intstyle ise -family spartan3e datamem.spl C:/Users/Pro/Documents/Xilinx/R_Type/datamem.sym 
+vhdtdtfi -lib work datamem.vhd -prj R_Type -o datamem.spl -module datamem -template C:/Xilinx/14.6/ISE_DS/ISE//data/splfile.tft -deleteonerror 
+spl2sym -intstyle ise -family spartan3e datamem.spl C:/Users/Pro/Documents/Xilinx/R_Type/datamem.sym 

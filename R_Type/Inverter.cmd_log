@@ -1,0 +1,2 @@
+vhdtdtfi -lib work Inverter.vhd -prj R_Type -o Inverter.spl -module Inverter -template C:/Xilinx/14.6/ISE_DS/ISE//data/splfile.tft -deleteonerror 
+spl2sym -intstyle ise -family spartan3e Inverter.spl C:/Users/Pro/Documents/Xilinx/R_Type/Inverter.sym 

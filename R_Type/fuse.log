@@ -1,0 +1,61 @@
+Running: fuse.exe -relaunch -intstyle "ise" -incremental -o "C:/Users/Pro/Documents/Xilinx/R_Type/Schem_Schem_sch_tb_isim_beh.exe" -prj "C:/Users/Pro/Documents/Xilinx/R_Type/Schem_Schem_sch_tb_beh.prj" "work.Schem_Schem_sch_tb" 
+ISim P.68d (signature 0x7708f090)
+Number of CPUs detected in this system: 4
+Turning on mult-threading, number of parallel sub-compilation jobs: 8 
+Determining compilation order of HDL files
+Parsing VHDL file "C:/Users/Pro/Documents/Xilinx/R_Type/sign_extn.vhd" into library work
+Parsing VHDL file "C:/Users/Pro/Documents/Xilinx/R_Type/shift_left_26.vhd" into library work
+Parsing VHDL file "C:/Users/Pro/Documents/Xilinx/R_Type/shift_left2.vhd" into library work
+Parsing VHDL file "C:/Users/Pro/Documents/Xilinx/R_Type/regfile.vhd" into library work
+Parsing VHDL file "C:/Users/Pro/Documents/Xilinx/R_Type/Pc_Chunk.vhd" into library work
+Parsing VHDL file "C:/Users/Pro/Documents/Xilinx/R_Type/PCADD.vhd" into library work
+Parsing VHDL file "C:/Users/Pro/Documents/Xilinx/R_Type/PC.vhd" into library work
+Parsing VHDL file "C:/Users/Pro/Documents/Xilinx/R_Type/Or_gate.vhd" into library work
+Parsing VHDL file "C:/Users/Pro/Documents/Xilinx/R_Type/Mux2_1.vhd" into library work
+Parsing VHDL file "C:/Users/Pro/Documents/Xilinx/R_Type/Mux21_32b.vhd" into library work
+Parsing VHDL file "C:/Users/Pro/Documents/Xilinx/R_Type/Inverter.vhd" into library work
+Parsing VHDL file "C:/Users/Pro/Documents/Xilinx/R_Type/instmem.vhd" into library work
+Parsing VHDL file "C:/Users/Pro/Documents/Xilinx/R_Type/datamem.vhd" into library work
+Parsing VHDL file "C:/Users/Pro/Documents/Xilinx/R_Type/Control.vhd" into library work
+Parsing VHDL file "C:/Users/Pro/Documents/Xilinx/R_Type/And.vhd" into library work
+Parsing VHDL file "C:/Users/Pro/Documents/Xilinx/R_Type/ALU_Control.vhd" into library work
+Parsing VHDL file "C:/Users/Pro/Documents/Xilinx/R_Type/ALU.vhd" into library work
+Parsing VHDL file "C:/Users/Pro/Documents/Xilinx/R_Type/ADD_SOME.vhd" into library work
+Parsing VHDL file "C:/Users/Pro/Documents/Xilinx/R_Type/Add.vhd" into library work
+Parsing VHDL file "C:/Users/Pro/Documents/Xilinx/R_Type/Schem.vhf" into library work
+Parsing VHDL file "C:/Users/Pro/Documents/Xilinx/R_Type/J_TB.vhd" into library work
+Starting static elaboration
+Completed static elaboration
+Compiling package standard
+Compiling package std_logic_1164
+Compiling package numeric_std
+Compiling package vcomponents
+Compiling package std_logic_arith
+Compiling package std_logic_unsigned
+Compiling architecture behavior of entity PC [pc_default]
+Compiling architecture behavioral of entity PCADD [pcadd_default]
+Compiling architecture behavioral of entity instmem [instmem_default]
+Compiling architecture behavioral of entity regfile [regfile_default]
+Compiling architecture behavioral of entity ALU_Control [alu_control_default]
+Compiling architecture behavioral of entity ALU [alu_default]
+Compiling architecture behavioral of entity Pc_Chunk [pc_chunk_default]
+Compiling architecture behavioral of entity sign_extn [sign_extn_default]
+Compiling architecture behavioral of entity Control [control_default]
+Compiling architecture behavioral of entity shift_left_2 [shift_left_2_default]
+Compiling architecture behavioral of entity Add [add_default]
+Compiling architecture behavioral of entity And_gate [and_gate_default]
+Compiling architecture behavioral of entity Mux21_32 [mux21_32_default]
+Compiling architecture behavioral of entity Mux2_1 [mux2_1_default]
+Compiling architecture behavioral of entity datamem [datamem_default]
+Compiling architecture behavioral of entity Inverter [inverter_default]
+Compiling architecture behavioral of entity Or_gate [or_gate_default]
+Compiling architecture behavioral of entity shift_left_26 [shift_left_26_default]
+Compiling architecture behavioral of entity ADD_SOME [add_some_default]
+Compiling architecture behavioral of entity Schem [schem_default]
+Compiling architecture behavioral of entity schem_schem_sch_tb
+Time Resolution for simulation is 1ps.
+Waiting for 17 sub-compilation(s) to finish...
+Compiled 47 VHDL Units
+Built simulation executable C:/Users/Pro/Documents/Xilinx/R_Type/Schem_Schem_sch_tb_isim_beh.exe
+Fuse Memory Usage: 50896 KB
+Fuse CPU Usage: 936 ms

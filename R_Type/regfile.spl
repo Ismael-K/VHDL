@@ -1,0 +1,11 @@
+[Inputs]
+clock
+RegWrite
+=read_reg1[4:0]=
+=read_reg2[4:0]=
+=write_reg[4:0]=
+=write_data[31:0]=
+[Outputs]
+=read_data1[31:0]=
+=read_data2[31:0]=
+[BiDir]

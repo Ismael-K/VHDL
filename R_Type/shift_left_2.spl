@@ -1,0 +1,5 @@
+[Inputs]
+=din[31:0]=
+[Outputs]
+=dout[31:0]=
+[BiDir]

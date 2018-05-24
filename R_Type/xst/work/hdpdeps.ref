@@ -1,0 +1,124 @@
+V3 84
+FL C:/Users/Pro/Documents/Xilinx/R_Type/Add.vhd 2014/03/27.15:25:36 P.68d
+EN work/Add 1397271664 FL C:/Users/Pro/Documents/Xilinx/R_Type/Add.vhd \
+      PB ieee/std_logic_1164 1370735607 PB ieee/STD_LOGIC_UNSIGNED 1370735609 \
+      PB ieee/NUMERIC_STD 1370735611 PB ieee/std_logic_arith 1370735608
+AR work/Add/Behavioral 1397271665 \
+      FL C:/Users/Pro/Documents/Xilinx/R_Type/Add.vhd EN work/Add 1397271664
+FL C:/Users/Pro/Documents/Xilinx/R_Type/ADD_SOME.vhd 2014/04/11.02:07:41 P.68d
+EN work/ADD_SOME 1397271680 FL C:/Users/Pro/Documents/Xilinx/R_Type/ADD_SOME.vhd \
+      PB ieee/std_logic_1164 1370735607 PB ieee/std_logic_arith 1370735608 \
+      PB ieee/STD_LOGIC_UNSIGNED 1370735609
+AR work/ADD_SOME/Behavioral 1397271681 \
+      FL C:/Users/Pro/Documents/Xilinx/R_Type/ADD_SOME.vhd EN work/ADD_SOME 1397271680
+FL C:/Users/Pro/Documents/Xilinx/R_Type/ALU.vhd 2014/04/08.16:28:38 P.68d
+EN work/ALU 1397271654 FL C:/Users/Pro/Documents/Xilinx/R_Type/ALU.vhd \
+      PB ieee/std_logic_1164 1370735607 PB ieee/STD_LOGIC_UNSIGNED 1370735609 \
+      PB ieee/NUMERIC_STD 1370735611
+AR work/ALU/Behavioral 1397271655 \
+      FL C:/Users/Pro/Documents/Xilinx/R_Type/ALU.vhd EN work/ALU 1397271654
+FL C:/Users/Pro/Documents/Xilinx/R_Type/ALU_Control.vhd 2014/04/11.15:33:26 P.68d
+EN work/ALU_Control 1397271652 \
+      FL C:/Users/Pro/Documents/Xilinx/R_Type/ALU_Control.vhd \
+      PB ieee/std_logic_1164 1370735607
+AR work/ALU_Control/Behavioral 1397271653 \
+      FL C:/Users/Pro/Documents/Xilinx/R_Type/ALU_Control.vhd EN work/ALU_Control 1397271652
+FL C:/Users/Pro/Documents/Xilinx/R_Type/And.vhd 2014/03/26.01:03:27 P.68d
+EN work/And_gate 1397271666 FL C:/Users/Pro/Documents/Xilinx/R_Type/And.vhd \
+      PB ieee/std_logic_1164 1370735607
+AR work/And_gate/Behavioral 1397271667 \
+      FL C:/Users/Pro/Documents/Xilinx/R_Type/And.vhd EN work/And_gate 1397271666
+FL C:/Users/Pro/Documents/Xilinx/R_Type/Control.vhd 2014/04/11.01:44:20 P.68d
+EN work/Control 1397271660 FL C:/Users/Pro/Documents/Xilinx/R_Type/Control.vhd \
+      PB ieee/std_logic_1164 1370735607
+AR work/Control/Behavioral 1397271661 \
+      FL C:/Users/Pro/Documents/Xilinx/R_Type/Control.vhd EN work/Control 1397271660
+FL C:/Users/Pro/Documents/Xilinx/R_Type/datamem.vhd 2014/04/08.13:46:22 P.68d
+EN work/datamem 1397271672 FL C:/Users/Pro/Documents/Xilinx/R_Type/datamem.vhd \
+      PB ieee/std_logic_1164 1370735607 PB ieee/STD_LOGIC_UNSIGNED 1370735609 \
+      PB ieee/std_logic_arith 1370735608
+AR work/datamem/Behavioral 1397271673 \
+      FL C:/Users/Pro/Documents/Xilinx/R_Type/datamem.vhd EN work/datamem 1397271672
+FL C:/Users/Pro/Documents/Xilinx/R_Type/instmem.vhd 2014/04/11.20:31:54 P.68d
+EN work/instmem 1397271648 FL C:/Users/Pro/Documents/Xilinx/R_Type/instmem.vhd \
+      PB ieee/std_logic_1164 1370735607 PB ieee/std_logic_arith 1370735608 \
+      PB ieee/STD_LOGIC_UNSIGNED 1370735609
+AR work/instmem/Behavioral 1397271649 \
+      FL C:/Users/Pro/Documents/Xilinx/R_Type/instmem.vhd EN work/instmem 1397271648
+FL C:/Users/Pro/Documents/Xilinx/R_Type/Inverter.vhd 2014/03/31.20:38:34 P.68d
+EN work/Inverter 1397271674 FL C:/Users/Pro/Documents/Xilinx/R_Type/Inverter.vhd \
+      PB ieee/std_logic_1164 1370735607
+AR work/Inverter/Behavioral 1397271675 \
+      FL C:/Users/Pro/Documents/Xilinx/R_Type/Inverter.vhd EN work/Inverter 1397271674
+FL C:/Users/Pro/Documents/Xilinx/R_Type/Mux21_32b.vhd 2014/03/29.18:26:19 P.68d
+EN work/Mux21_32 1397271668 FL C:/Users/Pro/Documents/Xilinx/R_Type/Mux21_32b.vhd \
+      PB ieee/std_logic_1164 1370735607
+AR work/Mux21_32/Behavioral 1397271669 \
+      FL C:/Users/Pro/Documents/Xilinx/R_Type/Mux21_32b.vhd EN work/Mux21_32 1397271668
+FL C:/Users/Pro/Documents/Xilinx/R_Type/Mux2_1.vhd 2014/03/29.18:25:55 P.68d
+EN work/Mux2_1 1397271670 FL C:/Users/Pro/Documents/Xilinx/R_Type/Mux2_1.vhd \
+      PB ieee/std_logic_1164 1370735607
+AR work/Mux2_1/Behavioral 1397271671 \
+      FL C:/Users/Pro/Documents/Xilinx/R_Type/Mux2_1.vhd EN work/Mux2_1 1397271670
+FL C:/Users/Pro/Documents/Xilinx/R_Type/Or_gate.vhd 2014/03/31.20:37:07 P.68d
+EN work/Or_gate 1397271676 FL C:/Users/Pro/Documents/Xilinx/R_Type/Or_gate.vhd \
+      PB ieee/std_logic_1164 1370735607
+AR work/Or_gate/Behavioral 1397271677 \
+      FL C:/Users/Pro/Documents/Xilinx/R_Type/Or_gate.vhd EN work/Or_gate 1397271676
+FL C:/Users/Pro/Documents/Xilinx/R_Type/PC.vhd 2014/02/18.14:30:50 P.68d
+EN work/PC 1397271644 FL C:/Users/Pro/Documents/Xilinx/R_Type/PC.vhd \
+      PB ieee/std_logic_1164 1370735607
+AR work/PC/Behavior 1397271645 \
+      FL C:/Users/Pro/Documents/Xilinx/R_Type/PC.vhd EN work/PC 1397271644
+FL C:/Users/Pro/Documents/Xilinx/R_Type/PCADD.vhd 2014/02/18.14:23:22 P.68d
+EN work/PCADD 1397271646 FL C:/Users/Pro/Documents/Xilinx/R_Type/PCADD.vhd \
+      PB ieee/std_logic_1164 1370735607 PB ieee/std_logic_arith 1370735608 \
+      PB ieee/STD_LOGIC_UNSIGNED 1370735609
+AR work/PCADD/Behavioral 1397271647 \
+      FL C:/Users/Pro/Documents/Xilinx/R_Type/PCADD.vhd EN work/PCADD 1397271646
+FL C:/Users/Pro/Documents/Xilinx/R_Type/Pc_Chunk.vhd 2014/02/26.17:20:52 P.68d
+EN work/Pc_Chunk 1397271656 FL C:/Users/Pro/Documents/Xilinx/R_Type/Pc_Chunk.vhd \
+      PB ieee/std_logic_1164 1370735607
+AR work/Pc_Chunk/Behavioral 1397271657 \
+      FL C:/Users/Pro/Documents/Xilinx/R_Type/Pc_Chunk.vhd EN work/Pc_Chunk 1397271656
+FL C:/Users/Pro/Documents/Xilinx/R_Type/regfile.vhd 2014/04/08.13:44:52 P.68d
+EN work/regfile 1397271650 FL C:/Users/Pro/Documents/Xilinx/R_Type/regfile.vhd \
+      PB ieee/std_logic_1164 1370735607 PB ieee/std_logic_arith 1370735608 \
+      PB ieee/STD_LOGIC_UNSIGNED 1370735609
+AR work/regfile/Behavioral 1397271651 \
+      FL C:/Users/Pro/Documents/Xilinx/R_Type/regfile.vhd EN work/regfile 1397271650
+FL C:/Users/Pro/Documents/Xilinx/R_Type/Schem.vhf 2014/04/11.15:28:08 P.68d
+EN work/Schem 1397271682 FL C:/Users/Pro/Documents/Xilinx/R_Type/Schem.vhf \
+      PB ieee/std_logic_1164 1370735607 PB ieee/NUMERIC_STD 1370735611 LB UNISIM \
+      PH unisim/VCOMPONENTS 1370735613
+AR work/Schem/BEHAVIORAL 1397271683 \
+      FL C:/Users/Pro/Documents/Xilinx/R_Type/Schem.vhf EN work/Schem 1397271682 \
+      CP PC CP PCADD CP instmem CP regfile CP ALU_Control CP ALU CP Pc_Chunk \
+      CP sign_extn CP Control CP shift_left_2 CP Add CP And_gate CP Mux21_32 CP Mux2_1 \
+      CP datamem CP Inverter CP Or_gate CP shift_left_26 CP ADD_SOME
+FL C:/Users/Pro/Documents/Xilinx/R_Type/shift_left2.vhd 2014/03/26.00:52:06 P.68d
+EN work/shift_left_2 1397271662 \
+      FL C:/Users/Pro/Documents/Xilinx/R_Type/shift_left2.vhd \
+      PB ieee/std_logic_1164 1370735607 PB ieee/NUMERIC_STD 1370735611
+AR work/shift_left_2/Behavioral 1397271663 \
+      FL C:/Users/Pro/Documents/Xilinx/R_Type/shift_left2.vhd \
+      EN work/shift_left_2 1397271662
+FL C:/Users/Pro/Documents/Xilinx/R_Type/shift_left_26.vhd 2014/04/10.17:16:50 P.68d
+EN work/shift_left_26 1397271678 \
+      FL C:/Users/Pro/Documents/Xilinx/R_Type/shift_left_26.vhd \
+      PB ieee/std_logic_1164 1370735607
+AR work/shift_left_26/Behavioral 1397271679 \
+      FL C:/Users/Pro/Documents/Xilinx/R_Type/shift_left_26.vhd \
+      EN work/shift_left_26 1397271678
+FL C:/Users/Pro/Documents/Xilinx/R_Type/sign_extn.vhd 2014/03/28.20:40:24 P.68d
+EN work/sign_extn 1397271658 \
+      FL C:/Users/Pro/Documents/Xilinx/R_Type/sign_extn.vhd \
+      PB ieee/std_logic_1164 1370735607 PB ieee/NUMERIC_STD 1370735611
+AR work/sign_extn/Behavioral 1397271659 \
+      FL C:/Users/Pro/Documents/Xilinx/R_Type/sign_extn.vhd EN work/sign_extn 1397271658
+FL C:/Users/Pro/Documents/Xilinx/R_Type/toplevel.vhd 2014/04/08.13:43:51 P.68d
+EN work/toplevel 1397271684 FL C:/Users/Pro/Documents/Xilinx/R_Type/toplevel.vhd \
+      PB ieee/std_logic_1164 1370735607 PB ieee/STD_LOGIC_UNSIGNED 1370735609
+AR work/toplevel/Behavioral 1397271685 \
+      FL C:/Users/Pro/Documents/Xilinx/R_Type/toplevel.vhd EN work/toplevel 1397271684 \
+      CP Schem

@@ -1,0 +1,2 @@
+vhdtdtfi -lib work And.vhd -prj R_Type -o And_gate.spl -module And_gate -template C:/Xilinx/14.6/ISE_DS/ISE//data/splfile.tft -deleteonerror 
+spl2sym -intstyle ise -family spartan3e And_gate.spl C:/Users/Pro/Documents/Xilinx/R_Type/And_gate.sym 

@@ -1,0 +1,5 @@
+[Inputs]
+=PCADD_in[31:0]=
+[Outputs]
+=PCADD_out[31:0]=
+[BiDir]

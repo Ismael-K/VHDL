@@ -1,0 +1,2 @@
+vhdtdtfi -lib work Or_gate.vhd -prj R_Type -o Or_gate.spl -module Or_gate -template C:/Xilinx/14.6/ISE_DS/ISE//data/splfile.tft -deleteonerror 
+spl2sym -intstyle ise -family spartan3e Or_gate.spl C:/Users/Pro/Documents/Xilinx/R_Type/Or_gate.sym 

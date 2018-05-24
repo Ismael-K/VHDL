@@ -1,0 +1,6 @@
+vhdtdtfi -lib work sign_extn.vhd -prj R_Type -o sign_extn.spl -module sign_extn -template C:/Xilinx/14.6/ISE_DS/ISE//data/splfile.tft -deleteonerror 
+spl2sym -intstyle ise -family spartan3e sign_extn.spl C:/Users/Pro/Documents/Xilinx/R_Type/sign_extn.sym 
+vhdtdtfi -lib work sign_extn.vhd -prj R_Type -o sign_extn.spl -module sign_extn -template C:/Xilinx/14.6/ISE_DS/ISE//data/splfile.tft -deleteonerror 
+spl2sym -intstyle ise -family spartan3e sign_extn.spl C:/Users/Pro/Documents/Xilinx/R_Type/sign_extn.sym 
+vhdtdtfi -lib work sign_extn.vhd -prj R_Type -o sign_extn.spl -module sign_extn -template C:/Xilinx/14.6/ISE_DS/ISE//data/splfile.tft -deleteonerror 
+spl2sym -intstyle ise -family spartan3e sign_extn.spl C:/Users/Pro/Documents/Xilinx/R_Type/sign_extn.sym 

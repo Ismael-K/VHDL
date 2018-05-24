@@ -1,0 +1,6 @@
+[Inputs]
+=Add1[31:0]=
+=Add2[31:0]=
+[Outputs]
+=Result[31:0]=
+[BiDir]

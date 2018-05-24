@@ -1,0 +1,2 @@
+vhdtdtfi -lib work shift_left2.vhd -prj R_Type -o shift_left_2.spl -module shift_left_2 -template C:/Xilinx/14.6/ISE_DS/ISE//data/splfile.tft -deleteonerror 
+spl2sym -intstyle ise -family spartan3e shift_left_2.spl C:/Users/Pro/Documents/Xilinx/R_Type/shift_left_2.sym 

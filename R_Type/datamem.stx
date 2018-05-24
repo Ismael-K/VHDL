@@ -1,0 +1,36 @@
+Release 14.6 - xst P.68d (nt64)
+Copyright (c) 1995-2013 Xilinx, Inc.  All rights reserved.
+--> Parameter TMPDIR set to C:/Users/Pro/Documents/Xilinx/R_Type/xst/projnav.tmp
+
+
+Total REAL time to Xst completion: 1.00 secs
+Total CPU time to Xst completion: 0.43 secs
+ 
+--> Parameter xsthdpdir set to C:/Users/Pro/Documents/Xilinx/R_Type/xst
+
+
+Total REAL time to Xst completion: 1.00 secs
+Total CPU time to Xst completion: 0.44 secs
+ 
+--> WARNING:Xst:3164 - Option "-debug" found multiple times in the command line. Only the first occurence is considered.
+
+=========================================================================
+*                          HDL Compilation                              *
+=========================================================================
+Compiling vhdl file "C:/Users/Pro/Documents/Xilinx/R_Type/datamem.vhd" in Library work.
+Entity <datamem> compiled.
+ERROR:HDLParsers:808 - "C:/Users/Pro/Documents/Xilinx/R_Type/datamem.vhd" Line 66. / can not have such operands in this context.
+ERROR:HDLParsers:808 - "C:/Users/Pro/Documents/Xilinx/R_Type/datamem.vhd" Line 70. / can not have such operands in this context.
+
+
+Total REAL time to Xst completion: 1.00 secs
+Total CPU time to Xst completion: 0.61 secs
+ 
+--> 
+
+Total memory usage is 211820 kilobytes
+
+Number of errors   :    2 (   0 filtered)
+Number of warnings :    1 (   0 filtered)
+Number of infos    :    0 (   0 filtered)
+
