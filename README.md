@@ -1,6 +1,6 @@
 # VHDL
 
-### MIPS Datapath for R,I, and J-type Instructions
+### MIPS Datapath for R,I, and J-type Instruction Formats
 
 
 
