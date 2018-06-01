@@ -23,5 +23,27 @@ WB Stage - The operation results are written back to the destination register in
 <img width="450" alt="datapath" src="https://user-images.githubusercontent.com/17348315/40518308-ec6a8746-5f87-11e8-947a-58eeee90f829.PNG">
 
 
-The 32-bit Instruction Formats are shown below.
+The 32-bit Instruction Formats for the Register, Immediate, and Jump instruction types are shown below.
 <p align="center">
+<img width="462" alt="instructionformat" src="https://user-images.githubusercontent.com/17348315/40864991-28c68446-65c4-11e8-91ca-60188088cc87.PNG">
+  
+  
+ Schem.sch contains the top-level schematic file for this design.  The testbench for this schematic file is included in the project design.
+ 
+ Device utilization summary:
+---------------------------
+
+Selected Device : 3s100ecp132-5 
+
+ Number of Slices:                      507  out of    960    52%  
+ Number of Slice Flip Flops:             23  out of   1920     1%  
+ Number of 4 input LUTs:               1066  out of   1920    55%  
+    Number used as logic:               746
+    Number used as RAMs:                320
+ Number of IOs:                          24
+ Number of bonded IOBs:                  24  out of     83    28%  
+ Number of GCLKs:                         2  out of     24     8% 
+ 
+ 
+ 
+ 
