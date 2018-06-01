@@ -28,7 +28,7 @@ The 32-bit Instruction Formats for the Register, Immediate, and Jump instruction
 <img width="462" alt="instructionformat" src="https://user-images.githubusercontent.com/17348315/40864991-28c68446-65c4-11e8-91ca-60188088cc87.PNG">
   
   
- Schem.sch contains the top-level schematic file for this design.  The testbench for this schematic file is included in the project design.
+ Schem.sch contains the top-level schematic file for this design.  The testbench for this schematic file is included in the project design. This design can be optimized by using a pipelined datapath to improve throughput and execute multiple instructions per cycle. 
  
  Device utilization summary:
 ---------------------------
