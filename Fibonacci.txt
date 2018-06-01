@@ -1,14 +1,14 @@
 	-------Fibonoacci----------
 								
-								  x"00",x"00",x"00",x"20",--add $zero,$zero,$zero --address x0
+				x"00",x"00",x"00",x"20",--add $zero,$zero,$zero --address x0
 								  
-								x"02",x"B4",x"08",x"22",--sub $at, $s5, $s4 --x4							
-							x"00",x"01",x"10",x"20",--add $v0,$zero,$at	    x8
+				x"02",x"B4",x"08",x"22",--sub $at, $s5, $s4 --x4							
+				x"00",x"01",x"10",x"20",--add $v0,$zero,$at	    x8
 								
-								x"00",x"41",x"18",x"20",	-- add $v1,$v0,$at   			-----Fib------- xc
-								x"00",x"43",x"20",x"20",		--add $a0, $v0, $v1   		x10
-								x"00",x"03",x"10",x"20",		--add $v0, $zero, $v1  			 set V0 = V1-  x14
-							x"00",x"04",x"18",x"20",				--add $v1, $zero, $a0    set V1 = V3 - x1c
+				x"00",x"41",x"18",x"20",	-- add $v1,$v0,$at   			-----Fib------- xc
+				x"00",x"43",x"20",x"20",		--add $a0, $v0, $v1   		x10
+				x"00",x"03",x"10",x"20",		--add $v0, $zero, $v1  			 set V0 = V1-  x14
+				x"00",x"04",x"18",x"20",				--add $v1, $zero, $a0    set V1 = V3 - x1c
 								
-							x"08",x"00",x"00",x"04", --j Fib 	4 is line number to jump to
+				x"08",x"00",x"00",x"04", --j Fib 	4 is line number to jump to
 								
